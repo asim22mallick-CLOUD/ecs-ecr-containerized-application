@@ -17,7 +17,7 @@ Amazon ECS • Amazon ECR • EC2 • AWS Fargate • ALB • IAM
 
 ## Architecture
 
-Architecture diagram will be added here.
+![ECS ECR Containerized Application Architecture](architecture-diagram.png)
 
 ## Testing
 
